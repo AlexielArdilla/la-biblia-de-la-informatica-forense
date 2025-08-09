@@ -6319,4 +6319,5 @@ Ahora, la responsabilidad recae en ti: aplicar estos conocimientos con integrida
 
 ---
 
+[`La_biblia_de_la_informatica_forense_Libro.pdf`](./La_biblia_de_la_informatica_forense_Libro.pdf)
 
